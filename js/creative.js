@@ -76,6 +76,14 @@
     delay: 800,
     scale: 0
   });
+  sr.reveal('.sr-icon-5', {
+    delay: 1000,
+    scale: 0
+  });
+  sr.reveal('.sr-icon-6', {
+    delay: 1200,
+    scale: 0
+  });
   sr.reveal('.sr-button', {
     delay: 200,
     distance: '15px',
