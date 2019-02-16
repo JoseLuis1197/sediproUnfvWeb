@@ -348,20 +348,22 @@ header.masthead p {
 
 .btn-team-view{
   background: white;
-  font-size: 12px;
+  font-size: 15px;
   border: none;
+  font-family:Montserrat;
   border-radius: 300px;
   padding: 5px 13px;
   color: black;
   cursor: pointer
 }
 
+
 .centrado-team-view {
   display: block;
 }
 
 .btn-team-view:hover{
-  background: rgb(79, 138, 170); 
+  background: rgb(209, 236, 250); 
   text-decoration: none;
   color: #015581
 }
